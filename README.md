@@ -1,8 +1,11 @@
 # 👋 Hi there! I'm Hitha Harish  
 
-- A pre-final year **CSE student** at BMSCE, Bengaluru 
-- Currently investing my time in DSA **(Java & Python)**, working on real-world projects,  
-and contributing to open-source initiatives.  
+- A pre-final year **CSE student** at BMSCE, Bengaluru.
+- R & D Intern : Samsung PRISM 
+- Super Contributor : Hacktoberfest 2025
+- 3rd Place : SolarisX National level Hackathon : RNS Institute of Technology, Bengaluru
+- Finalist ( Top 10/ 450+ teams ) : VISA AI Hackathon - IIT Madras
+- Skilled in AWS Services & Java.  
 
 💻 My [Portfolio](https://hithaharish.netlify.app) says it all — built from scratch, totally me.  
 
@@ -12,7 +15,7 @@ and contributing to open-source initiatives.
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,react,flutter,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,python,java,html,css,js,mysql,react,flutter,git,github" />
 </p>
 
 ---
